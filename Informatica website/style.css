@@ -1,0 +1,22 @@
+img { 
+width: 300px;
+float: right;
+}
+body{ background-image: url(white_wall_hash.webp);
+}
+p{ color: rgb(0, 0, 0);
+
+}
+h1{ color: rgb(0, 0, 0);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+html{
+    width: auto;
+    margin: 0rem;
+    padding: 2rem;
+    display: flex;
+    
+} div{
+    width: 100px;
+    float: right;
+}
